@@ -84,7 +84,7 @@ def analyze_dataset(jokes):
 def main():
     input_file = '/Users/muhammad/Documents/project_cygnet/CYGNET/reddit_music_jokes.jsonl'
 
-    output_file = 'llama_training_data.jsonl'
+    output_file = '/Users/muhammad/Documents/project_cygnet/CYGNET/llama_training_data.jsonl'
     
     try:
         # Process jokes
